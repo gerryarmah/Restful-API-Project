@@ -1,0 +1,15 @@
+{
+  "name": "restful-api-project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerald Amamoo",
+  "license": "ISC",
+  "description": "Building a Basic Restful API to retrieve user data",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
